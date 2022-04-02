@@ -256,16 +256,18 @@ Algunos archivos de terceros incluídos pueden tener distintas licencias - por f
 12. El Minado con servidores en la nube gratuitos (o servicios gratuitos de VPS - Ej. Repl.it, Github Actions, etc.) no esta permitido ya que es injusto para con otros.<br />
 13. Los DUCOs de un usuario pueden ser quemados si una violación puede ser probada.<br/>
 14. Estos términos de servicio pueden cambiar en cualquier momento sin previo aviso.<br/>
-15. Tener cuentas secundarias sin un motivo racional (Ej. para multi-minado) no está permitido.<br/>
-16. Enviar transacciones para promover servicios, o hacer publicidad de  otra manera no esta permitida en la red.<br/>
-17. Cada usuario utilizando Duino-Coin está de acuerdo a cumplir con las reglas dictadas anteriormente.<br/>
-
+15. No se permite tener cuentas alternativas sin un motivo racional (p. ej., para minería múltiple): se bloquearán varias cuentas utilizadas en una sola computadora/red, a menos que se incluyan en la lista blanca.<br/>
+16. No se permite el envío de transacciones que promocionen otros servicios o anuncien algo en cualquier forma.<br/>
+17. Enviar muchas transacciones en poco tiempo puede activar el sistema Kolka, que limitará la tasa y/o bloqueará al usuario.<br />
+18. Los softwares creados por la comunidad deben cumplir con las reglas (términos de servicio, niveles de dificultad, etc.): abusar del sistema conducirá al bloqueo del software y/o de los usuarios.<br />
+19. No se permiten cuentas que se demuestre que son engañosas en nombre o uso (suplantación de identidad, bots falsos, etc.).<br />
+20. Todo usuario de Duino-Coin se compromete a cumplir con las reglas anteriores. El comportamiento inadecuado conducirá al bloqueo de la cuenta.<br/>
 
 ## Políticas de Privacidad
-1. En el servidor maestro solo son guardados nombres de usuarios, contraseñas encryptadas (con la ayuda de bcrypt) y e-mails de los usuarios así como la información de su cuenta.<br/>
+1. En el servidor maestro solo almacenamos nombres de usuario, contraseñas codificadas (con la ayuda de bcrypt), fechas de creación de cuentas, horas del último inicio de sesión y correos electrónicos de los usuarios como datos.<br/>
 2. Los e-mails no son disponibles públicamente y son solo utilizados para contactar al usuario cuando es necesario, confirmar intercambios en <a href="https://revoxhere.github.io/duco-exchange/">DUCO-Exchange</a> y recibir un boletín informativo ocasional (planeado para el futuro).<br/>
 3. Balances, transacciones e información relacionada al minado está totalmente disponible para el público <a href="https://github.com/revoxhere/duino-coin/tree/useful-tools#http-json-api">JSON APIs</a>.<br/>
-4. La política de privacidad puede ser cambiada en el futuro con notificación previa.
+4. La política de privacidad puede sufrir cambios en el futuro, aunque los usuarios recibirán una notificación previa a los cambios.
 
 
 ## Mantenedores activos del proyecto
